@@ -1,0 +1,1 @@
+<img src="./bn2/banner.png" alt="banner">
